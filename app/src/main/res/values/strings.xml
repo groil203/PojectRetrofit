@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello">Hello</string>
+    <string name="main_text">List of exercises for each part of the body</string>
+    <string name="update">Update</string>
+    <string name="textview">TextView</string>
+</resources>
